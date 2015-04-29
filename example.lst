@@ -1,0 +1,71 @@
+﻿
+E:\Projects\oDesk\UniqueIdentificationNumbers>java -jar UniqueIdentificationNumb
+ers-all-1.0.jar -file="product list - Copy.xlsx"
+Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF-8
+File mode
+processing xslx file "product list - Copy.xlsx"
+done
+
+E:\Projects\oDesk\UniqueIdentificationNumbers>java -jar UniqueIdentificationNumb
+ers-all-1.0.jar -mask=".xlsx"
+Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF-8
+File mode
+files by mask .xlsx not found
+done
+
+E:\Projects\oDesk\UniqueIdentificationNumbers>java -jar UniqueIdentificationNumb
+ers-all-1.0.jar -mask="*.xlsx"
+Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF-8
+File mode
+processing xslx file "product list - Copy (2).xlsx"
+processing xslx file "product list - Copy (3).xlsx"
+processing xslx file "product list - Copy.xlsx"
+processing xslx file "product list result.xlsx"
+done
+
+
+E:\Projects\oDesk\UniqueIdentificationNumbers>java -jar UniqueIdentificationNumb
+ers-all-1.0.jar -mode=stream
+Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF-8
+3
+6ZXDNC242D
+15IX7UQFWQ
+5QX1B7QPNO
+17
+16968KR5AS
+7QM73Q7VMD
+5T5ERIMLGD
+1BWLLHG1DQ
+182VIOXED2
+Z5VTVR62RC
+BLT18TED1J
+2A51E3G6Z3
+YWZM0B1312
+DLP1A2L34G
+7KPY0S136T
+10W7NJPJVP
+15N9P37MNU
+16TZIPFMF9
+P6C1BZEDIK
+4E15Y6A3XC
+SVM8Y51AIY
+1
+G2ZYSAX14D
+3
+9TY1E6U6TY
+PR718FENC9
+88M136B1BF
+2
+WV5166396R
+14Q9ZYF1E0
+2
+RNEPN512V0
+BZ3G4C64EF
+1
+BYMKYITKRE
+5
+6G5F2JNUFE
+7F54DXBG6F
+AWVQZGZN1F
+UK11V4M8CD
+7ZKGURHRSE
